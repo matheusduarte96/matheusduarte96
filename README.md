@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Matheus Duarte
  <div>
   <a href="https://github.com/matheusduarte96">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusduarte96&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusduarte96&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheusduarte96&theme=monokai"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheusduarte96&theme=monokai"/>
  </div>
  
  <div><br>
