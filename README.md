@@ -1,5 +1,6 @@
 ## Olá! Eu sou o Matheus Duarte
  <div>
+ <a href="https://github.com/matheusduarte96"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusduarte96&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusduarte96&hide=c&layout=compact&theme=dark"/>
  </div>
